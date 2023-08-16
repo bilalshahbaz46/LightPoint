@@ -1,0 +1,13 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package ping;
+
+service Ping {
+    rpc DoRepeatReply (Message) returns (stream Message);
+}
+
+message Message {
+    string msg = 1;
+}

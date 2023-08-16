@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcUserPoints";
+
+service UserPointsProvider{
+	rpc GetUserPoints (UserPointsRequest) returns (UserPointsResponse);
+};
+
+message UserPointsRequest{
+	int64 UserId = 1;
+};
+
+message UserPointsResponse{
+	double UserPoints = 1;
+};

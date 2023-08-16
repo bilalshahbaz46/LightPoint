@@ -1,0 +1,3 @@
+obj\Debug\.net5\Protos/ClientCount.cs \
+obj\Debug\.net5\Protos/ClientCountGrpc.cs: C:/Users/Bilal(Techverx)/.nuget/packages/grpc.tools/2.41.0/build/native/include/google/protobuf/empty.proto\
+ Protos/clientCount.proto

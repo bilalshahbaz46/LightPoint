@@ -1,0 +1,15 @@
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\fdsrtc_vc141_x86_win64d.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\SimpleFDF.deps.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\SimpleFDF.runtimeconfig.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\SimpleFDF.runtimeconfig.dev.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\netcoreapp2.1\FactSet.Datafeed_x64.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.csprojAssemblyReference.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.AssemblyInfoInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.AssemblyInfo.cs
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.csproj.CopyComplete
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\netcoreapp2.1\SimpleFDF.genruntimeconfig.cache

@@ -1,0 +1,104 @@
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.exe
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.deps.json
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.json
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.dev.json
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csprojAssemblyReference.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfoInputs.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfo.cs
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.Manifest.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.xml
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\GrpcDemoServer.styles.css
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.RazorTargetAssemblyInfo.cache
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CopyComplete
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\Light Point\gRPC\GrpcDemo\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.genruntimeconfig.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.exe
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.deps.json
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.json
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.dev.json
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csprojAssemblyReference.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfoInputs.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfo.cs
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.Manifest.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.xml
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\GrpcDemoServer.styles.css
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.RazorTargetAssemblyInfo.cache
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CopyComplete
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\Light Point\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.genruntimeconfig.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.exe
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.deps.json
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.json
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.runtimeconfig.dev.json
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfoInputs.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.AssemblyInfo.cs
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CoreCompileInputs.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.Manifest.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcDemoServer.StaticWebAssets.xml
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\GrpcDemoServer.styles.css
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.RazorTargetAssemblyInfo.cache
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.csproj.CopyComplete
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.dll
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.pdb
+D:\Work\LightPoint\gRPC\GrpcDemo(ServerStreaming)\GrpcDemoServer\GrpcDemoServer\obj\Debug\netcoreapp3.1\GrpcDemoServer.genruntimeconfig.cache

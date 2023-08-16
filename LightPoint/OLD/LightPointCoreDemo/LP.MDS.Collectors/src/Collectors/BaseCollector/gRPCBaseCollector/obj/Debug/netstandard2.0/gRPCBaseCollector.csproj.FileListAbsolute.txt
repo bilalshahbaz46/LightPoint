@@ -1,0 +1,13 @@
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.csprojAssemblyReference.cache
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.AssemblyInfoInputs.cache
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.AssemblyInfo.cs
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.csproj.CoreCompileInputs.cache
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\bin\Debug\netstandard2.0\gRPCBaseCollector.deps.json
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\bin\Debug\netstandard2.0\gRPCBaseCollector.dll
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\bin\Debug\netstandard2.0\gRPCBaseCollector.pdb
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\bin\Debug\netstandard2.0\Web.Marker.dll
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\bin\Debug\netstandard2.0\Web.Marker.pdb
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.csproj.CopyComplete
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.dll
+D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\obj\Debug\netstandard2.0\gRPCBaseCollector.pdb

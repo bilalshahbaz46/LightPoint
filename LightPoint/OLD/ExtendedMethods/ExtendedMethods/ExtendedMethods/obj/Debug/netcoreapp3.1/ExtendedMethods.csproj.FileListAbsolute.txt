@@ -1,0 +1,14 @@
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.exe
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.deps.json
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.runtimeconfig.json
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.runtimeconfig.dev.json
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.dll
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\bin\Debug\netcoreapp3.1\ExtendedMethods.pdb
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.csprojAssemblyReference.cache
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.AssemblyInfoInputs.cache
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.AssemblyInfo.cs
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.dll
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.pdb
+D:\Work\Light Point\ExtendedMethods\ExtendedMethods\ExtendedMethods\obj\Debug\netcoreapp3.1\ExtendedMethods.genruntimeconfig.cache

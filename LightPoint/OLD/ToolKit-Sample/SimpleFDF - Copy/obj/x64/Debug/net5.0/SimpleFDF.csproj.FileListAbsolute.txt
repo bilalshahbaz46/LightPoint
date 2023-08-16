@@ -1,0 +1,65 @@
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.exe
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\fdsrtc_vc141_x86_win64d.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.deps.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.dev.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\ref\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\bin\x64\Debug\net5.0\FactSet.Datafeed_x64.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.csprojAssemblyReference.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfoInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfo.cs
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.csproj.CopyComplete
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\ref\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF\obj\x64\Debug\net5.0\SimpleFDF.genruntimeconfig.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csprojAssemblyReference.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfoInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfo.cs
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.exe
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\fdsrtc_vc141_x86_win64d.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\FactSet.Datafeed_x64.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\msvcp140d.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\ucrtbased.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\vcruntime140d.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.deps.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.dev.json
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\ref\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csproj.CopyComplete
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\ref\SimpleFDF.dll
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.pdb
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.genruntimeconfig.cache
+C:\Users\Hp\AppData\Local\FactSet\DataFeed\DotNetStandard\samples\SimpleFDF - Copy\bin\x64\Debug\net5.0\tickers.txt
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.exe
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\FactSet.Datafeed_x64.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\fdsrtc_vc141_x86_win64d.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\msvcp140d.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\tickers.txt
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\ucrtbased.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\vcruntime140d.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.deps.json
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.json
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.runtimeconfig.dev.json
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\ref\SimpleFDF.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\bin\x64\Debug\net5.0\SimpleFDF.pdb
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csproj.AssemblyReference.cache
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfoInputs.cache
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.AssemblyInfo.cs
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csproj.CoreCompileInputs.cache
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.csproj.CopyComplete
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\ref\SimpleFDF.dll
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.pdb
+D:\Work\LightPoint\ToolKit-Sample\SimpleFDF - Copy\obj\x64\Debug\net5.0\SimpleFDF.genruntimeconfig.cache

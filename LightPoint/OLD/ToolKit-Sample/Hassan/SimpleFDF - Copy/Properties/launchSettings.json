@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SimpleFDF": {
+      "commandName": "Project",
+      "commandLineArgs": "LP_OMS-1231139:IaOh5VQMvLGx0SPX@api-stage.df.factset.com AAPL:D"
+    } 
+  }
+}
+
+
+//Username: LP_OMS_1232158_SERVICES
+//Password: UgZ6tUdu6Y6zy8Tw

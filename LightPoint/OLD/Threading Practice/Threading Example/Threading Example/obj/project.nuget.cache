@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUQVnj5RE/VjfWfhzuXSwosn6M5i10zIvWARO8bf5Y1cZLKHZzS2If+xG5DMITGII8fQ+XFNE7X35Ku3+UEsdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Light Point\\Threading Practice\\Threading Example\\Threading Example\\Threading Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bilal(Techverx)\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

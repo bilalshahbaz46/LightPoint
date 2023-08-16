@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Visualset";
+
+package Visualset;
+
+service VisualsetGrpcService{
+    rpc GetReferenceData(ReferenceDataRequest) returns (ReferenceData);
+}
+
+message ReferenceDataRequest{
+    repeated string tickers = 1;
+    repeated string mnemonics = 2;
+}
+
+message ReferenceData{
+   repeated DataItem items = 1;
+}
+
+message DataItem{
+    string ticker = 1;
+    map<string,string> mnemonics = 2;
+    string message = 3;
+}

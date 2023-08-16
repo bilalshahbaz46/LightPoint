@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{DC447F4C-D7F9-4FDC-98C1-78EFF2E309CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collectors", "Collectors", "{E56361BD-609C-476A-A772-8CA70AE19B08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseCollector", "BaseCollector", "{62B07E88-9040-49AE-83C1-0D2258D1AF0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualset", "Visualset", "{9E74C1B1-DD3C-4829-A5DD-BFBDDDF35666}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPCBaseCollector", "Collectors\BaseCollector\gRPCBaseCollector\gRPCBaseCollector.csproj", "{91BB83BA-AC2B-480C-B038-A6D84D092BEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebsocketBaseCollector", "Collectors\BaseCollector\WebsocketBaseCollector\WebsocketBaseCollector.csproj", "{EA7966AC-8B36-4735-86D0-8721C0933D6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPCVisualset", "Collectors\Visualset\gRPCVisualset\gRPCVisualset.csproj", "{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Markers", "Markers", "{049765D4-494A-489C-AE88-8656279EBD29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Protocols", "Protocols", "{9D1BC190-F040-413A-8BE4-8D7DF94369C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandProtocol", "BuildingBlocks\Protocols\CommandProtocol\CommandProtocol.csproj", "{757D73C8-2356-4B85-8403-8E2733884000}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceProtocol", "BuildingBlocks\Protocols\ServiceProtocol\ServiceProtocol.csproj", "{CD2A6203-7482-42E4-947B-028D6F4593C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Marker", "BuildingBlocks\Markers\Web.Marker\Web.Marker.csproj", "{9FC350AD-1235-431A-9180-A9530BA705BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logger.Marker", "BuildingBlocks\Markers\Logger.Marker\Logger.Marker.csproj", "{D307E329-4200-4874-A88D-3DA8758D6E9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factset", "Factset", "{373EC5B8-DBC9-419A-86CF-F19130BE94E3}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base.Marker", "BuildingBlocks\Markers\Base.Marker\Base.Marker.csproj", "{C675A6DF-6EBD-45A1-85D4-48129C203C07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Protos", "Protos", "{76171607-AB72-4C23-B1BC-84BC6A1D23D0}"
+	ProjectSection(SolutionItems) = preProject
+		Protos\MDS.proto = Protos\MDS.proto
+		Visualset.proto = Visualset.proto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BB83BA-AC2B-480C-B038-A6D84D092BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BB83BA-AC2B-480C-B038-A6D84D092BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BB83BA-AC2B-480C-B038-A6D84D092BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BB83BA-AC2B-480C-B038-A6D84D092BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7966AC-8B36-4735-86D0-8721C0933D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7966AC-8B36-4735-86D0-8721C0933D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7966AC-8B36-4735-86D0-8721C0933D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7966AC-8B36-4735-86D0-8721C0933D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757D73C8-2356-4B85-8403-8E2733884000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757D73C8-2356-4B85-8403-8E2733884000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757D73C8-2356-4B85-8403-8E2733884000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757D73C8-2356-4B85-8403-8E2733884000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2A6203-7482-42E4-947B-028D6F4593C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2A6203-7482-42E4-947B-028D6F4593C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2A6203-7482-42E4-947B-028D6F4593C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2A6203-7482-42E4-947B-028D6F4593C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC350AD-1235-431A-9180-A9530BA705BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC350AD-1235-431A-9180-A9530BA705BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC350AD-1235-431A-9180-A9530BA705BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC350AD-1235-431A-9180-A9530BA705BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D307E329-4200-4874-A88D-3DA8758D6E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D307E329-4200-4874-A88D-3DA8758D6E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D307E329-4200-4874-A88D-3DA8758D6E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D307E329-4200-4874-A88D-3DA8758D6E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C675A6DF-6EBD-45A1-85D4-48129C203C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C675A6DF-6EBD-45A1-85D4-48129C203C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C675A6DF-6EBD-45A1-85D4-48129C203C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C675A6DF-6EBD-45A1-85D4-48129C203C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62B07E88-9040-49AE-83C1-0D2258D1AF0B} = {E56361BD-609C-476A-A772-8CA70AE19B08}
+		{9E74C1B1-DD3C-4829-A5DD-BFBDDDF35666} = {E56361BD-609C-476A-A772-8CA70AE19B08}
+		{91BB83BA-AC2B-480C-B038-A6D84D092BEC} = {62B07E88-9040-49AE-83C1-0D2258D1AF0B}
+		{EA7966AC-8B36-4735-86D0-8721C0933D6A} = {62B07E88-9040-49AE-83C1-0D2258D1AF0B}
+		{9BB50DB6-A6AE-4FA1-A959-6DD03F5A74BF} = {9E74C1B1-DD3C-4829-A5DD-BFBDDDF35666}
+		{049765D4-494A-489C-AE88-8656279EBD29} = {DC447F4C-D7F9-4FDC-98C1-78EFF2E309CA}
+		{9D1BC190-F040-413A-8BE4-8D7DF94369C3} = {DC447F4C-D7F9-4FDC-98C1-78EFF2E309CA}
+		{757D73C8-2356-4B85-8403-8E2733884000} = {9D1BC190-F040-413A-8BE4-8D7DF94369C3}
+		{CD2A6203-7482-42E4-947B-028D6F4593C9} = {9D1BC190-F040-413A-8BE4-8D7DF94369C3}
+		{9FC350AD-1235-431A-9180-A9530BA705BA} = {049765D4-494A-489C-AE88-8656279EBD29}
+		{D307E329-4200-4874-A88D-3DA8758D6E9F} = {049765D4-494A-489C-AE88-8656279EBD29}
+		{373EC5B8-DBC9-419A-86CF-F19130BE94E3} = {E56361BD-609C-476A-A772-8CA70AE19B08}
+		{C675A6DF-6EBD-45A1-85D4-48129C203C07} = {049765D4-494A-489C-AE88-8656279EBD29}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04E3779-0610-4452-BA4C-D93381CD5CB4}
+	EndGlobalSection
+EndGlobal

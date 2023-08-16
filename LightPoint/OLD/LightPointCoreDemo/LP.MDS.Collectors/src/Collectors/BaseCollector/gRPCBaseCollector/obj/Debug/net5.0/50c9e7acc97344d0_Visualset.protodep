@@ -1,0 +1,2 @@
+obj\Debug\net5.0/Visualset.cs \
+obj\Debug\net5.0/VisualsetGrpc.cs: ../../../Protos/Visualset.proto

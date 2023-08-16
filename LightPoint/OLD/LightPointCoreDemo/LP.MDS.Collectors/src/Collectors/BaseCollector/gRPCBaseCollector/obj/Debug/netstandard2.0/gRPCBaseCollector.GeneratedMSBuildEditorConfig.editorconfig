@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = gRPCBaseCollector
+build_property.ProjectDir = D:\Work\Lightpoint-Core\Server\LP.MDS.Collectors\src\Collectors\BaseCollector\gRPCBaseCollector\

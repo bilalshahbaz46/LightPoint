@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Points.cs \
+obj\Debug\netcoreapp3.1\Protos/PointsGrpc.cs: Protos/points.proto

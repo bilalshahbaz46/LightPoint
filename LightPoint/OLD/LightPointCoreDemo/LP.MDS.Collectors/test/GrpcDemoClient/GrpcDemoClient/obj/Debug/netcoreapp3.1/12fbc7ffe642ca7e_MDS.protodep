@@ -1,0 +1,4 @@
+obj\Debug\netcoreapp3.1\Protos/MDS.cs \
+obj\Debug\netcoreapp3.1\Protos/MDSGrpc.cs: C:/Users/Bilal(Techverx)/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/Bilal(Techverx)/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/MDS.proto

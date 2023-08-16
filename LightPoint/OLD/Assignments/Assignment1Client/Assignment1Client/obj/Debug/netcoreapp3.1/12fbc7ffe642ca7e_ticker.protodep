@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/Ticker.cs \
+obj\Debug\netcoreapp3.1\Protos/TickerGrpc.cs: C:/Users/Bilal(Techverx)/.nuget/packages/grpc.tools/2.41.0/build/native/include/google/protobuf/empty.proto\
+ Protos/ticker.proto

@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Platforms>x64</Platforms>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup Condition="'$(Configuration)'=='Release' AND Exists('..\..\bin\x64\Release\FactSet.Datafeed_x64.dll')">
+    <Content Include="..\..\bin\x64\Release\fdsrtc_vc141_x86_win64.dll">
+	  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+  <ItemGroup Condition="'$(Configuration)'=='Release' AND Exists('..\FactSet.Datafeed\bin\x64\WinRelease\netstandard2.0\FactSet.Datafeed_x64.dll')">
+    <Content Include="..\..\datafeed_c\x64\Release\fdsrtc_vc141_x86_win64.dll">
+	  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+  <ItemGroup Condition="'$(Configuration)'=='Debug' AND Exists('..\..\bin\x64\Debug\FactSet.Datafeed_x64.dll')">
+    <Content Include="..\..\bin\x64\Debug\fdsrtc_vc141_x86_win64d.dll">
+	  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+  <ItemGroup Condition="'$(Configuration)'=='Debug' AND Exists('..\FactSet.Datafeed\bin\x64\WinDebug\netstandard2.0\FactSet.Datafeed_x64.dll')">
+    <Content Include="..\..\datafeed_c\x64\Debug\fdsrtc_vc141_x86_win64d.dll">
+	  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FactSet.Datafeed_x64">
+      <HintPath>FactSet.Datafeed_x64.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="FactSet.Datafeed_x64.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="fdsrtc_vc141_x86_win64d.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="msvcp140d.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="tickers.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ucrtbased.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="vcruntime140d.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

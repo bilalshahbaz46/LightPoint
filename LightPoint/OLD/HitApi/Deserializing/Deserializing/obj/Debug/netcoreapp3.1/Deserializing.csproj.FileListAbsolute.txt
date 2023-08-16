@@ -1,0 +1,37 @@
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.exe
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.deps.json
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.runtimeconfig.json
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.runtimeconfig.dev.json
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.dll
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.pdb
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csprojAssemblyReference.cache
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.AssemblyInfoInputs.cache
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.AssemblyInfo.cs
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csproj.CopyComplete
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.dll
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.pdb
+D:\Work\Light Point\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.genruntimeconfig.cache
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csprojAssemblyReference.cache
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.AssemblyInfoInputs.cache
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.AssemblyInfo.cs
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csproj.CoreCompileInputs.cache
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.dll
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.pdb
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.exe
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.deps.json
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.runtimeconfig.json
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.runtimeconfig.dev.json
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.dll
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Deserializing.pdb
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.csproj.CopyComplete
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\obj\Debug\netcoreapp3.1\Deserializing.genruntimeconfig.cache
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\Tickers.txt
+D:\Work\LightPoint\HitApi\Deserializing\Deserializing\bin\Debug\netcoreapp3.1\DistinctTickers.txt

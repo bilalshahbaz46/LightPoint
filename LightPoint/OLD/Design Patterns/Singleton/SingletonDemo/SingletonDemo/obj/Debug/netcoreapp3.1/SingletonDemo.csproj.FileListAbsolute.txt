@@ -1,0 +1,14 @@
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csprojAssemblyReference.cache
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Work\Light Point\Design Patterns\Singleton\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache

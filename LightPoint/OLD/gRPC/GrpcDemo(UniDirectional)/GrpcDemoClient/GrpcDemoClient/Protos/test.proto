@@ -1,0 +1,28 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "GrpcTest";
+
+service testProvider{
+	rpc GetResponse (IRequest) returns (OutgoingMessage);
+}
+
+message OutgoingMessage{
+	oneof mes{
+		SuccessMessage success = 1;
+		ErrorMessage error = 2;
+	}
+}
+
+message SuccessMessage{
+	string ans = 1;
+}
+
+message ErrorMessage{
+	string errorMessage = 1;
+}
+
+message IRequest{
+	string name = 3;
+}

@@ -1,0 +1,24 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "GrpcTicker";
+
+package ticker;
+
+service TickerProvider {
+	rpc RunProgram (TickerRequest) returns (stream TickerResponse);
+	rpc RunTicking (google.protobuf.Empty) returns (stream TickingResponse);
+}
+
+message TickerRequest{
+	int32 storeTicker = 1;
+};
+
+message TickerResponse{
+	int32 tickerStore = 1;
+}
+
+message TickingResponse{
+	string changed = 1;
+}
